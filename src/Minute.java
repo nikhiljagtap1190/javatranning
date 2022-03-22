@@ -11,7 +11,6 @@ class Minute
         int h=24,m=60,s=60;
         System.out.printf("total number of seconds in a day=%d", h * m * s).println();
     }
-
     public static void main(String args[])
     {
         minute();

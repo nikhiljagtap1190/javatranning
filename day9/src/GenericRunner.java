@@ -15,6 +15,7 @@ public class GenericRunner
         System.out.println(list);
         MyCustomList<Integer> list2=new MyCustomList<>();
         list2.addElement(Integer.valueOf(5));
+
         list2.addElement(Integer.valueOf(7));
         System.out.println(list2);
 
